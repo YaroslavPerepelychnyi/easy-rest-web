@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/easy-rest/static/js/runtime~main.3a111398.js"
   },
   {
-    "revision": "9078b98e03ca4fb5ce2d",
-    "url": "/easy-rest/static/js/main.9078b98e.chunk.js"
+    "revision": "fcde7a03f0e54f230975",
+    "url": "/easy-rest/static/js/main.fcde7a03.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/easy-rest/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "9078b98e03ca4fb5ce2d",
+    "revision": "fcde7a03f0e54f230975",
     "url": "/easy-rest/static/css/main.4d87b36f.chunk.css"
   },
   {
-    "revision": "928f275cd411bb7e19d33592b0c9aed5",
+    "revision": "6d117fc5d287318b28b411647a9c39a7",
     "url": "/easy-rest/index.html"
   }
 ];
